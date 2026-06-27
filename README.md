@@ -1,2 +1,1 @@
-# Aditi-Python-Journey-
-BCS 1st Year Aditi
+# Aditi-Python-Journey
